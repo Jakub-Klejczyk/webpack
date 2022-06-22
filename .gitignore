@@ -1,1 +1,9 @@
 node_modules
+
+# some editor / env trashes
+.history/
+.vscode/
+.DS_Store
+
+# production build dir
+dist/

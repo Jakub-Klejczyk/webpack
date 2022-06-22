@@ -6,4 +6,4 @@ node_modules
 .DS_Store
 
 # production build dir
-dist/
+dist/js/
